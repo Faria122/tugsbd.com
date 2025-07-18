@@ -1,3 +1,6 @@
+'use client';
+
+import Image from "next/image";
 const projects = [
   {
     title: "Tank Foundation",
@@ -14,7 +17,7 @@ const projects = [
     category: "Standard Asiatic Oil Company",
     image: "/images/image5.jpg",
   },
-  
+
 ];
 
 export default function ProjectsGrid() {
@@ -24,9 +27,11 @@ export default function ProjectsGrid() {
       <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
         {projects.map((project, index) => (
           <div key={index} className="shadow-md rounded-lg overflow-hidden bg-white hover:shadow-lg transition">
-            <img
+            <Image
               src={project.image}
               alt={project.title}
+              width={600}          // pick any numbers that match your design
+              height={384}
               className="w-full h-48 object-cover"
             />
             <div className="p-4">
