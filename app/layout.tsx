@@ -4,7 +4,7 @@ import {Poppins} from 'next/font/google'
 import "./globals.css";
 import ResponsiveNev from "@/components/Home/Navbar/ResponsiveNav";
 import Footer from "@/components/Home/Footer/Footer";
-import { Scrollbar } from "swiper/modules";
+//import { Scrollbar } from "swiper/modules";
 import ScrollToTop from "@/components/Helper/ScrollToTop";
 
 

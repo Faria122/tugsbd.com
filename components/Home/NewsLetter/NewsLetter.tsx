@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsEnvelope, BsEnvelopePaper } from 'react-icons/bs'
+import { BsEnvelopePaper } from 'react-icons/bs'
 
 const NewsLetter = () => {
     return (
