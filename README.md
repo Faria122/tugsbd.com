@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TUGSBD — Corporate Website
+
+A professional corporate website built for the TUGSBD company.
+
+🔗 **Live Site:** [tugsbd-com-mc59.vercel.app](https://tugsbd-com-mc59.vercel.app)
+
+## Tech Stack
+- **Framework:** Next.js  (App Router)
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Deployment:** Vercel
+
+## Features
+- Responsive design across all devices
+- Dynamic routing and static page generation
+- Component-based architecture with reusable UI elements
+- Optimized images and performance via Next.js built-ins
+
+## Getting Started
+```bash
+npm install
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000)
+
+## Developer
+Built by [Umme Fahria Rupa](https://portfolio-dun-one-35.vercel.app)  
+📧 faria.rupa13@gmail.com
 
 ## Getting Started
 
