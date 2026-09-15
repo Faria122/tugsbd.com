@@ -49,7 +49,6 @@ const ReviewSlider = () => {
                                         />
                                         <div>
                                             <p className="text-sm sm:text-lg font-semibold">{data.name}</p>
-                                            <p className="text-gray-600 text-xs sm:text-base">Engineer</p>
                                         </div>
                                     </div>
                                 </div>

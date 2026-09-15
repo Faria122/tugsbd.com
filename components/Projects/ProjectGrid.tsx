@@ -5,17 +5,17 @@ const projects = [
   {
     title: "Tank Foundation",
     category: "Asiatic Oil Company North Potenga, Chittagong",
-    image: "/images/image2.jpg",
+    image: "/images/tank-foundation.jpg",
   },
   {
     title: "New Storage Tank",
     category: "Standard Asiatic Oil Company",
-    image: "/images/image3.jpg",
+    image: "/images/tank-good-pic-1.png",
   },
   {
     title: "Jetty Pipeline",
     category: "Standard Asiatic Oil Company",
-    image: "/images/image5.jpg",
+    image: "/images/jetty.jpg",
   },
 
 ];

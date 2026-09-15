@@ -7,7 +7,7 @@ import ProjectSlide from './ProjectSlide';
 
 const Destination = () => {
   return (
-    <div className="w-[80%] mx-auto">
+    <div className="w-[80%] mx-auto pt-20">
       {/* Section Heading */}
      <SectionHeading heading="Exploring our Projects"/>
      {/* Section Content */}

@@ -12,10 +12,7 @@ const Reviews = () => {
                     What our customer are saying about us?
                 </h1>
                 <p className="mt-6 text-gray-200">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                    Debitis accusamus ad, quam tenetur, 
-                    alias totam ipsum voluptatem ab hic soluta facilis a illo, 
-                    aut commodi laborum vitae omnis quisquam iusto.
+                    Trusted by clients who value quality, precision, and dependable project delivery
                 </p>
                 {/* Ratings */}
                 <div className="mt-6 flex items-center space-x-6">

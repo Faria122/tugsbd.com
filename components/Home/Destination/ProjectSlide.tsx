@@ -52,7 +52,6 @@ const ProjectSlide = () => {
             </div>
             {/* Text Content */} 
             <h1 className="text-lg font-semibold mt-4"> {data.company} </h1>
-            <p className="text-sm text-gray-600">{data.title} Title </p>
         </div>
         )
     })}   

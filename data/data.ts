@@ -1,43 +1,39 @@
   export const projectDetails = [
     {
         id: 1,
-        image : "/images/image2.jpg",
-        company: "New Storage Tank",
-        title: "Standard Asiatic Oil Company",
+        image : "/images/engineering.jpg",
+        company: "Engineering, procurement and construction for API 650 atmospheric storage tanks",
         year: "2012",
     },
     {
         id: 2,
-        image : "/images/image3.jpg",
-        company: "Jetty Pipeline",
-        title: "Standard Asiatic Oil Company",
+        image : "/images/design.jpg",
+        company: "Design, Supply & Installation For Fire Systems",
         year: "2013",
 
     },
     {
         id: 3,
-        image : "/images/image3.jpg",
-        company: "Jetty Pipeline",
-        title: "Standard Asiatic Oil Company",
+        image : "/images/painting.jpg",
+        company: "Sandblasting And Painting",
         year: "2013",
 
     },
-   {
+    {
         id: 4,
-        image : "/images/image3.jpg",
-        company: "Jetty Pipeline",
-        title: "Standard Asiatic Oil Company",
+        image : "/images/engi.png",
+        company: "Engineering, Supply , Fabrication & Installation for Steel Structure",
         year: "2013",
 
     },
-   {
+    {
         id: 5,
-        image : "/images/image3.jpg",
-        company: "Jetty Pipeline",
-        title: "Standard Asiatic Oil Company",
+        image : "/images/supply.jpg",
+        company: "Supply and Construction of Transmission Pipelines",
         year: "2013",
 
     },
+   
 
   ];
 
@@ -45,25 +41,25 @@
     {
         id:1,
         image:"/images/Clients.png",
-        name:"Jhon Doe",
-        review: "We are on a very excited journey towards version 3.0 of this component which will be rewritten in hooks/context completely. It means smaller bundle size, performance improvement and easier customization of the component and so many more benefits."
+        name:"Project Manager, Industrial Client",
+        review: "TUGSBD demonstrated excellent technical expertise throughout the project. Their team maintained a strong focus on quality, safety, and timely execution."
     },
     {
         id:2,
         image:"/images/Clients.png",
-        name:"Jhon Doe",
-        review: "You can pass your own custom arrows to make it the way you want, the same for the position. For example, add media query for the arrows to go under when on smaller screens."
+        name:"Engineering & Operations Manager",
+        review: "The team handled the work professionally from planning through installation. Their attention to detail and commitment to meeting project requirements was impressive."
     },
     {
         id:3,
         image:"/images/Clients.png",
-        name:"Jhon Doe",
-        review: "Your custom arrows will receive a list of props/state that's passed back by the carousel such as the currentSide, is dragging or swiping in progress."
+        name:"Client Representative",
+        review: "We appreciated TUGSBDs reliable communication and practical approach to solving challenges on site. The project was executed with professionalism and care."
     },
     {
         id:4,
         image:"/images/Clients.png",
         name:"Jhon Doe",
-        review: ""
+        review: "From site coordination to final execution, TUGSBD showed a clear commitment to quality and dependable project delivery."
     },
   ]
